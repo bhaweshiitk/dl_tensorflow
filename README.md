@@ -1,1 +1,1 @@
-# dl_tensorflow
+# TensorFlow 2 for Deep Learning Specialization
